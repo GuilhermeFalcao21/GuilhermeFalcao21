@@ -1,6 +1,6 @@
 # Guilherme Falcão
 
-# Instrutor de TI**
+# Instrutor de TI - IOS
 
 Olá! Eu sou o Guilherme Falcão, instrutor de TI 
 
