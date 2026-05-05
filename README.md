@@ -2,24 +2,22 @@
 
 # Instrutor de TI**
 
+Olá! Eu sou o Guilherme Falcão, instrutor de TI 
 
+Ensino jovens os fundamentos do desenvolvimento web, utilizando HTML, CSS, JavaScript e Git/GitHub por meio de projetos práticos e conectados com a realidade.
 
-Hi! I'm Guilherme, an IT instructor based in São Paulo, Brazil.  
-I teach and practice HTML, CSS, JavaScript, and Git/GitHub with a focus on real-world projects.
-
-My goal is to grow as a developer while helping young students transform their lives through technology 🚀
+Minha missão é capacitar alunos através da tecnologia, ajudando-os a desenvolver habilidades, confiança e novas oportunidades para o futuro 
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Se conecte comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-falcão)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_AQUI)
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Linguagens e Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
@@ -27,16 +25,9 @@ My goal is to grow as a developer while helping young students transform their l
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
-## 🟩 Contribution Graph (Pac-Man)
+## 🟩 Joguinho Legal (Pac-Man)
 
 <p>
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -44,14 +35,13 @@ My goal is to grow as a developer while helping young students transform their l
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Foco Atual
 
-- 📚 Teaching Web Development  
-- 💻 Building projects with students  
-- 🚀 Improving my skills as a developer  
-
+- 📚 Ensino de Desenvolvimento Web  
+- 💻 Criação de projetos práticos com alunos  
+- 🚀 Aperfeiçoamento contínuo como educador em tecnologia  
 ---
 
-## ⚡ Fun fact
+## ⚡ Curiosidade
 
-I believe technology can change lives — and I try to prove that every day in the classroom 💙
+Acredito que a tecnologia pode mudar vidas — e busco provar isso todos os dias em sala de aula 💙
