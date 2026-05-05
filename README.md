@@ -1,4 +1,4 @@
-# 👨‍💻 Guilherme Falcão
+# Guilherme Falcão
 
 # Instrutor de TI**
 
